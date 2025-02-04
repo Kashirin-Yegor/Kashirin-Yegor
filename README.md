@@ -8,8 +8,8 @@
   <a href="https://t.me/kashirin48">
     <img src="https://img.shields.io/badge/Telegram-@kashirin48-blue?logo=telegram&style=flat" alt="Telegram">
   </a>
-  <a href="mailto:egor4815162342@yandex.ru">
-    <img src="https://img.shields.io/badge/Email-egor4815162342%40yandex.ru-D14836?logo=gmail&style=flat" alt="Email">
+  <a href="mailto:kashirin.yegor@gmail.com">
+    <img src="https://img.shields.io/badge/Email-kashirin.yegor%40gmail.com-D14836?logo=gmail&style=flat" alt="Email">
   </a>
   <a href="https://www.linkedin.com/in/yegor-kashirin/">
     <img src="https://img.shields.io/badge/LinkedIn-Yegor%20Kashirin-0077B5?logo=linkedin&logoColor=white&style=flat" alt="LinkedIn">
