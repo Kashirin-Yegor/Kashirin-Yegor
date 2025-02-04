@@ -61,16 +61,16 @@
 ### 🔥 **Top Repositories**
 <p align="center">
   <a href="https://github.com/Kashirin-Yegor/note-mark">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kashirin-Yegor&repo=note-mark&theme=default" alt="Note Mark">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kashirin-Yegor&repo=note-mark&theme=transparent" alt="Note Mark">
   </a>
   <a href="https://github.com/Kashirin-Yegor/vertical-platformer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kashirin-Yegor&repo=vertical-platformer&theme=default" alt="Vertical Platformer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kashirin-Yegor&repo=vertical-platformer&theme=transparent" alt="Vertical Platformer">
   </a>
   <a href="https://github.com/Kashirin-Yegor/music-player-front">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kashirin-Yegor&repo=music-player-front&theme=default" alt="Music Player">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kashirin-Yegor&repo=music-player-front&theme=transparent" alt="Music Player">
   </a>
   <a href="https://github.com/Kashirin-Yegor/3d_portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kashirin-Yegor&repo=3d_portfolio&theme=default" alt="3D Portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kashirin-Yegor&repo=3d_portfolio&theme=transparent" alt="3D Portfolio">
   </a>
 </p>
 
