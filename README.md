@@ -5,8 +5,15 @@
 </p>
 
 <p align="center">
-  <a href="https://t.me/kashirin48"><img src="https://img.shields.io/badge/Telegram-@kashirin48-blue?logo=telegram&style=flat" alt="Telegram"></a>
-  <a href="mailto:egor4815162342@yandex.ru"><img src="https://img.shields.io/badge/Email-egor4815162342%40yandex.ru-red?style=flat" alt="Email"></a>
+  <a href="https://t.me/kashirin48">
+    <img src="https://img.shields.io/badge/Telegram-@kashirin48-blue?logo=telegram&style=flat" alt="Telegram">
+  </a>
+  <a href="mailto:egor4815162342@yandex.ru">
+    <img src="https://img.shields.io/badge/Email-egor4815162342%40yandex.ru-D14836?logo=gmail&style=flat" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/yegor-kashirin/">
+    <img src="https://img.shields.io/badge/LinkedIn-Yegor%20Kashirin-0077B5?logo=linkedin&logoColor=white&style=flat" alt="LinkedIn">
+  </a>
 </p>
 
 ---
@@ -65,7 +72,7 @@
 ---
 
 ### 📌 **About Me**
-- 🔭 **Frontend React is a developer with more than 6 years of experience.**  
+- 🔭 **Frontend React is a developer with more than 7 years of experience.**  
 - 💡 I have experience working in large IT companies.  
 - 🏗  I develop highly loaded applications, complex tables, graphs, and UI components.  
 - 👨‍🏫 I train and mentor junior developers.  
