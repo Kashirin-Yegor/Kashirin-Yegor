@@ -45,11 +45,16 @@
 ---
 
 ### 📈 **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kashirin-Yegor&show_icons=true&theme=default&count_private=true" alt="GitHub Stats">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kashirin-Yegor&layout=compact&theme=default" alt="GitHub Streak">
-</p>
+<table>
+  <tr>
+    <td valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=Kashirin-Yegor&show_icons=true&theme=default&count_private=true" alt="GitHub Stats">
+    </td>
+    <td valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kashirin-Yegor&layout=compact&theme=default" alt="GitHub Streak">
+    </td>
+  </tr>
+</table>
 
 ---
 
