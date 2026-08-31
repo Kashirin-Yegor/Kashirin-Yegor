@@ -82,33 +82,28 @@
 
 ### 📈 GitHub Stats
 
-<table>
-  <tr>
-    <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=Kashirin-Yegor&show_icons=true&theme=default&count_private=true&hide_border=true" alt="GitHub Stats">
-    </td>
-    <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kashirin-Yegor&layout=compact&theme=default&hide_border=true" alt="Top Languages">
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kashirin-Yegor&show_icons=true&theme=default&count_private=true&hide_border=true" alt="GitHub Stats" height="160">
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kashirin-Yegor&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="160">
+</p>
 
 ---
 
 ### 🔥 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/Kashirin-Yegor/payment-service-go">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kashirin-Yegor&repo=payment-service-go&theme=transparent&hide_border=true" alt="Payment Service Go">
-  </a>
-  <a href="https://github.com/Kashirin-Yegor/ai-desktop-assistant">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kashirin-Yegor&repo=ai-desktop-assistant&theme=transparent&hide_border=true" alt="AI Desktop Assistant">
-  </a>
   <a href="https://github.com/Kashirin-Yegor/note-mark">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kashirin-Yegor&repo=note-mark&theme=transparent&hide_border=true" alt="Note Mark">
   </a>
   <a href="https://github.com/Kashirin-Yegor/3d_portfolio">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kashirin-Yegor&repo=3d_portfolio&theme=transparent&hide_border=true" alt="3D Portfolio">
+  </a>
+  <a href="https://github.com/Kashirin-Yegor/vertical-platformer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kashirin-Yegor&repo=vertical-platformer&theme=transparent&hide_border=true" alt="Vertical Platformer">
+  </a>
+  <a href="https://github.com/Kashirin-Yegor/music-player-front">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kashirin-Yegor&repo=music-player-front&theme=transparent&hide_border=true" alt="Music Player">
   </a>
 </p>
 
