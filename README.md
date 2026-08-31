@@ -83,8 +83,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kashirin-Yegor&show_icons=true&theme=default&count_private=true&hide_border=true&cache_seconds=1800" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kashirin-Yegor&layout=compact&theme=default&hide_border=true&cache_seconds=1800&langs_count=6" alt="Top Languages" height="165">
+  <img src="https://streak-stats.demolab.com?user=Kashirin-Yegor&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kashirin-Yegor&layout=compact&theme=default&hide_border=true&langs_count=6" alt="Top Languages" height="165">
 </p>
 
 ---
