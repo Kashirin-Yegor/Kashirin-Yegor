@@ -83,29 +83,21 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kashirin-Yegor&show_icons=true&theme=default&count_private=true&hide_border=true" alt="GitHub Stats" height="160">
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kashirin-Yegor&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="160">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kashirin-Yegor&show_icons=true&theme=default&count_private=true&hide_border=true&cache_seconds=1800" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kashirin-Yegor&layout=compact&theme=default&hide_border=true&cache_seconds=1800&langs_count=6" alt="Top Languages" height="165">
 </p>
 
 ---
 
 ### 🔥 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/Kashirin-Yegor/note-mark">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kashirin-Yegor&repo=note-mark&theme=transparent&hide_border=true" alt="Note Mark">
-  </a>
-  <a href="https://github.com/Kashirin-Yegor/3d_portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kashirin-Yegor&repo=3d_portfolio&theme=transparent&hide_border=true" alt="3D Portfolio">
-  </a>
-  <a href="https://github.com/Kashirin-Yegor/vertical-platformer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kashirin-Yegor&repo=vertical-platformer&theme=transparent&hide_border=true" alt="Vertical Platformer">
-  </a>
-  <a href="https://github.com/Kashirin-Yegor/music-player-front">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kashirin-Yegor&repo=music-player-front&theme=transparent&hide_border=true" alt="Music Player">
-  </a>
-</p>
+| Repository | Description | Stack |
+|---|---|---|
+| 🔜 [payment-service-go](https://github.com/Kashirin-Yegor/payment-service-go) | Event-driven payment microservices | Go · Kafka · PostgreSQL |
+| 📝 [note-mark](https://github.com/Kashirin-Yegor/note-mark) | Markdown desktop app | Electron · React |
+| 🎮 [vertical-platformer](https://github.com/Kashirin-Yegor/vertical-platformer) | 2D browser game | Canvas API · JavaScript |
+| 🎵 [music-player-front](https://github.com/Kashirin-Yegor/music-player-front) | Music player UI | React · TypeScript |
+| 🌐 [3d_portfolio](https://github.com/Kashirin-Yegor/3d_portfolio) | 3D portfolio site | Three.js · WebGL |
 
 ---
 
